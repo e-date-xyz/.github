@@ -25,7 +25,7 @@
 
 - **TruaYT** – Projektleitung → [GitHub: TruaYT](https://github.com/TruaYT)  
 - **ParkusYT** – Projektleitung, Entwickler (Backend & Frontend) → [GitHub: ParkusYT](https://github.com/ParkusYT)  
-- **EinCode** – Entwickler (Frontend) → [GitHub: einCodeReal](https://github.com/einCodeReal)  
+- **einCode** – Entwickler (Frontend) → [GitHub: einCodeReal](https://github.com/einCodeReal)  
 
 ---
 
