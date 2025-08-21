@@ -1,12 +1,41 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://e-date.xyz">
+    <img src="https://e-date.xyz/Logo.png" alt="e-date Logo" width="200"/>
+  </a>
+</p>
 
-<!--
+<h1 align="center">🌐 e-date.xyz</h1>
 
-**Here are some ideas to get you started:**
+<p align="center">
+  Eine moderne <b>Social Media & Dating Plattform ab 16 Jahren</b> – sicher, modern und einfach zu nutzen.  
+</p>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## 🚀 Projektlinks
+
+- 🌍 **Website:** [e-date.xyz](https://e-date.xyz)  
+- 📝 **Registrieren:** [Jetzt anmelden](https://e-date.xyz/signup)  
+- 📜 **Nutzungsbedingungen:** [Hier lesen](https://e-date.xyz/nutzungsbedingungen)  
+- 🔒 **Datenschutz:** [Hier lesen](https://e-date.xyz/datenschutz)  
+
+---
+
+## 👥 Team
+
+- **TruaYT** – Projektleitung → [GitHub: TruaYT](https://github.com/TruaYT)  
+- **ParkusYT** – Projektleitung, Entwickler (Backend & Frontend) → [GitHub: ParkusYT](https://github.com/ParkusYT)  
+- **EinCode** – Entwickler (Frontend) → [GitHub: einCodeReal](https://github.com/einCodeReal)  
+
+---
+
+## 📌 Über das Projekt
+
+e-date.xyz ist eine Plattform, die **soziale Interaktion** und **Dating** verbindet.  
+Unser Ziel ist es, eine **sichere und moderne Community** ab 16 Jahren aufzubauen, die sowohl für neue Bekanntschaften als auch für Freundschaften gedacht ist.  
+
+---
+
+<p align="center">
+  Made with ❤️ by the e-date.xyz Team
+</p>
